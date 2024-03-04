@@ -1,2 +1,2 @@
 version control will not be the end of me
-hello!
+i'm understanding commit vs push
